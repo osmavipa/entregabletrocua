@@ -1,0 +1,32 @@
+.container__title {
+    font-size: 50px;
+    margin: 40px;
+}
+
+.crud {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(14, 240, 59);
+    box-shadow: 40px 50px 20px rgba(29, 28, 28, 0.795);
+    color: rgb(252, 38, 5);
+    padding: 1px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+/*btn de crear los nuevos usuarios*/
+.btn__formuser {
+    position: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #ef0f8e;
+    color: rgb(13, 238, 50);
+    box-shadow: 40px 4px 10px rgba(241, 5, 170, 0.795);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
